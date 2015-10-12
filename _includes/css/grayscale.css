@@ -138,7 +138,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(/img/IMG_20141221_130407.jpg) no-repeat bottom center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -152,11 +152,12 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .intro .intro-body .intro-text {
     font-size: 12px;
+    color: #fff;
 }
 
 @media(min-width:767px) {
@@ -166,11 +167,11 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 45px;
+        font-size: 40px;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 22px;
+        font-size: 18px;
     }
 }
 
