@@ -329,6 +329,10 @@ li {
     background-color: {{ site.color.links }};
 }
 
+.btn-social {
+    font-size: 14px;
+}
+
 ul.banner-social-buttons {
     margin-top: 0;
 }
@@ -385,4 +389,10 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.wrapper-alt {
+    padding: 0 200px;
+    margin: 0 0 50px 0;
+    text-align: center;
 }
