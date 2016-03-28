@@ -6,7 +6,8 @@ description: "Verzijl works on complex physical and financial models, and commun
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#181818'
+  primary-dark: '#001b33'
+  primary-light: '#fcfcfc'
   links: '#219ab3'
 
 # Footer settings
