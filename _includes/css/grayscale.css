@@ -259,7 +259,7 @@ a:focus {
 .projects-section {
     width: 100%;
     padding: 50px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     color: #fff;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
@@ -270,7 +270,7 @@ a:focus {
 .about-section {
     width: 100%;
     padding: 50px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .science-list {
     width: 100%;
