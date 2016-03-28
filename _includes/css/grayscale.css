@@ -258,7 +258,7 @@ a:focus {
 
 .projects-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 50px;
     margin-bottom: 150px;
     color: #fff;
     background-color: {{ site.color.primary-dark }};
@@ -268,18 +268,18 @@ a:focus {
     -o-background-size: cover;
 }
 .about-section {
-    padding: 0 200px;
+    width: 100%;
+    padding: 50px;
+    margin-bottom: 150px;
 }
 .science-list {
     width: 100%;
-    padding: 0 200px;
     margin: 0 0 50px 0;
     text-align: center;
     background-color: {{ site.color.primary-dark }};
 }
 .appl-list {
     width: 100%;
-    padding: 0 200px;
     margin: 0 0 50px 0;
     text-align: center;
     background-color: {{ site.color.primary-dark }};
