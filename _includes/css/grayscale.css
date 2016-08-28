@@ -258,7 +258,7 @@ a:focus {
 
 .projects-section {
     width: 100%;
-    padding: 50px;
+    padding: 5px;
     margin-bottom: 100px;
     color: #fff;
     background-color: {{ site.color.primary-dark }};
@@ -274,14 +274,14 @@ a:focus {
 }
 .science-list {
     width: 100%;
-    margin: 0 0 50px 0;
-    text-align: center;
+    padding: 50px;
+    margin-bottom: 100px;
     background-color: {{ site.color.primary-dark }};
 }
 .appl-list {
     width: 100%;
-    margin: 0 0 50px 0;
-    text-align: center;
+    padding: 50px;
+    margin-bottom: 100px;
     background-color: {{ site.color.primary-dark }};
 }
 li {
@@ -296,7 +296,7 @@ li {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 200px;
+        padding-top: 100px;
     }
 
     .download-section {
