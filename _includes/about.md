@@ -1,6 +1,6 @@
 <!-- ## ABOUT -->
 
-**Physicist, investment quant, and just a guy from the islands.**
+**Physicist, quant, and just a guy from the islands.**
 
 I currently do equity investment, based on the quantitative modeling of markets and strategies. I am also experienced with the design and implementation of predictive-analytics systems, and occasional model validation. In larger projects I typically run a small team of specialists as technical lead.
 
