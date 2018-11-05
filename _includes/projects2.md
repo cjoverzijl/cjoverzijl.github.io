@@ -9,7 +9,7 @@ SAS-based.
 
 * #### "Pandora" Analytics (2015–2016)
 	> **Team-Lead (team of 4):** Developed a full investment performance and risk analytics system, with the goals of speedy, daily reporting and data provision to portfolio management teams.
-	SAS development integrated with the Sungard APT risk-engine, datafeeds & historicized datavault DWH design.
+	SAS development integrated with the FIS APT risk-engine, datafeeds & historicized datavault DWH design.
 
 
 * #### NLP on the ABN AMRO prospectus (2015)
@@ -17,7 +17,7 @@ SAS-based.
 
 
 * #### SAS MI (2014–2015)
-	> **Team-Lead (team of 5):** Developed an analytics & reporting (BI/MI) platform for client holdings and asset flows over time. Architecture, ETL, DataVault approach to DWH, custom reporting engine, end-to-end flows, performance. testing.
+	> **Team-Lead (team of 5):** Developed an analytics & reporting (BI/MI) platform for client holdings and asset flows over time. Architecture, ETL, DataVault approach to DWH, custom reporting engine, end-to-end flows, performance testing.
 	SAS development, integrated with custom reporting engine.
 
 
@@ -46,7 +46,7 @@ SAS-based.
 
 
 * #### GSM-R for NCBG (2010)
-    > Designed a statistical methodology for validation of GSM-R network designs during field-trials on the high-speed railway networks in the Netherlands and Belgium, later used in the design of a network in Tunisia. Developed software for transmission interference analysis and cell-tower lookups
+    > Designed a statistical methodology for validation of GSM-R networks during field-trials on the high-speed railway networks in the Netherlands and Belgium, later used in the design of a network in Tunisia. Developed software for transmission interference analysis and cell-tower lookups
     ([consulting as Radio Network Planner for ClearCinCom](http://www.clearcincom.com)).
 	Perl and VB development.
 
