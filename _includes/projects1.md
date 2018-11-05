@@ -1,55 +1,20 @@
 <!-- ## Applied Projects -->
 
-## Recent Applied Work
+### Applied Research & Data Science :: Recent
 ---------------
-
-* ####	Quant Equity Signals & Visualization (2017)
-	> Project tying together internal and external quantitative signals, for bottom-up (stock-level) and top-down (sector and region) market views, with an optimization and backtesting framework for studying portfolio construction decisions.
-	> Matlab development, integrated with ThomsonReuters, Bloomberg, Factset.
 
 * #### Holmes (2014 – )
 	> Creating a general inference engine (an AI) which recognizes patterns in (multiple) sensory data (streams) over time. The engine predicts and influences it's environment to increase the likelihood of the occurrence of the goals driving its motivation. 
-    > Design leverages Cassandra on GCP, and Python and SQL; with Chris Molanus.
+    Design leverages Cassandra on GCP, and Python and SQL; with [Molanus](https://www.linkedin.com/in/chris-molanus-37832b10/).
 
-* #### Pandora Analytics (2015–2016)
-	> *Led team of 4:* Developed Pandora as an investment performance and risk analytics system, with the goals of speedy, daily reporting and data provision for analytics to portfolio management teams.
-	> SAS development, integrated with SunGard APT, Bloomberg, Factset & DataVault design.
+* ####	Active Bet-Sizing (2018)
+	> Designing a custom approach to combining (fundamental) conviction with (systematic) risk-balanced portfolio-construction in a hybrid fundamental/quant approach. Tailored models, implementation tools and visualization delivered for a live investment process with
+Matlab & Python.
+
+* ####	Quant Equity Alpha Models (2017-2018)
+	> Tying together internal and external quantitative signals for bottom-up (stock-level) and top-down (sector and region) market views, with an optimization and backtesting framework for studying portfolio construction decisions.
+	Matlab development integrated with multiple production datafeeds.
 
 
-* #### NLP applied to ABN AMRO prospectus (2015)
-    > Combining techniques from probabilistic topic modeling (using LDA) with clustering and visualization techniques to track the dynamics of research (or other) communities. In preparation for publication, [working paper](http://santafe.edu) available. applied to some others as well, 
-    > Python development [github].
 
 
-## Older Projects
----------------
-* #### LPPL Financial Crashes (2014)
-	> Implemented a predictive model of financial crashes driven by herding behavior, which is expressed through log-periodic power-law oscillations. Based on the research of ...
-    > [github]
-
-* #### SAS MI (2014–2015)
-	> *Led team of 5:* Developed a management information reporting and analytics platform for client holdings and asset flows over time.
-	> SAS development, integrated with SunGard APT & DataVault design.
-	
-
-* #### Investment Game Project (2014)
-    > Developed the models for, and major parts of a full transaction-processing, analytics and reporting stack for an "Investment Game" organized for charity, running parallel to the 2014 World Cup, **live**, as a complete and investable securities market; [preprint](http://arxiv.org) describing the modeling available.
-	> Matlab, SAS development.
-
-* #### Enhanced Reporting Framework (2014)
-	> *Led team of 2:* Developed a unified framework for efficient, clean and modern reporting elements and style, designed for modular integration with datawarehousing and quantitative analytics solutions.
-	> SAS development.
-
-* #### Exchange Matching Engine (2011)
-	> QuantCup 2011 competition entry implementing an exchange matching algorithm.
-	> C++ development.
-
-* #### NEGF in ADF/BAND (2008-2012)
-	> Developed a scalable, high-performance, quantum-chemical NEGF transport code (Physics PhD), which was later integrated into a commercial quantum-chemistry modeling solution.
-    Developed a scalable, high-performance, quantum-chemical NEGF transport code, which was later integrated into a commercial quantum-chemistry modeling solution ([SCM's ADF/Band package](http://www.scm.com)).
-	> Fortran, Python development.
-
-* #### GSM-R for NCBG (2010)
-    > Designed a statistical methodology for validation of GSM-R network designs during field-trials on the high-speed railway networks in the Netherlands and Belgium, later used in the design of a network in Tunisia. Developed software for transmission interference analysis and cell-tower lookups.
-    ([consulting as Radio Network Planner for ClearCinCom](http://www.clearcincom.com)).
-	> Perl, VB development.

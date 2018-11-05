@@ -1,13 +1,14 @@
 <!-- ## ABOUT -->
 
-**Physicist, quant, and just a guy from the islands.**
+####Strategist, physicist, and just a guy from the islands####
 
-I currently do equity investment, based on the quantitative modeling of markets and strategies. I am also experienced with the design and implementation of predictive-analytics systems, and occasional model validation. In larger projects I typically run a small team of specialists as technical lead.
+I currently do **cross-asset strategy**, based on quantitative modeling of financial markets. I've concurrently run **global equity portfolios**, and before that did design and implementation of **predictive-analytics** systems for investment management, and occasional (market-risk and alpha-) **model validation**. In larger projects I've typically run a small team of specialists as **technical lead**.
 
-Passionate about solid research and its use in risk-aware investment strategy, so am particularly interested in understanding network structure as a causal factor in the dynamics of financial markets. The value of understanding and visualizing this structure is usually underestimated in managing market, credit and liquidity risk. Broadly speaking, I apply this line of thought to risk-aware asset management. 
+My background is in physics and math: I'm passionate about the role of solid, no-BS research in risk-aware investment strategy. I want to understand the network-structure behind the dynamics of financial markets, which is underestimated in managing market, credit and liquidity risk, imho. Beyond that I'm always open to interesting cross-disciplinary research, always looking for new insights and novel takes on the world. This single page is essentially my project portfolio, as it were.
 
-Otherwise open to any interesting problem, always looking for new insights, and novel takes on the world. I'm also fascinated by languages in the broad sense, and speak:
+I hail from a tiny island called St. Martin in the Caribbean, and love languages in the broad sense. 
+I speak:
 
 - English and Dutch natively,
-- French and a little Spanish and Portuguese conversationally,
-- and math & code ...
+- French and some Spanish and Portuguese,
+- and of course math & code ...
