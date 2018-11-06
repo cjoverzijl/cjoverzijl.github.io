@@ -1,6 +1,6 @@
 <!-- ## ABOUT -->
 
-####Strategist, physicist, and just a guy from the islands####
+### Strategist, physicist, and just a guy from the islands
 
 I currently do **cross-asset strategy**, based on quantitative modeling of financial markets. I've concurrently run **global equity portfolios**, and before that did design and implementation of **predictive-analytics** systems for asset management, and occasional (market-risk and alpha-) **model validation**. In larger projects I've typically run a small team of specialists as **technical lead**. 
 
