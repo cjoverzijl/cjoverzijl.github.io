@@ -36,3 +36,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+include:
+  - about.md
+  - projects1.md
