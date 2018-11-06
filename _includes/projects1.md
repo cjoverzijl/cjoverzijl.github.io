@@ -5,7 +5,7 @@
 
 * #### Holmes (2014 – )
 	> Work on a novel general inference engine (i.e. an AI in the full-blown AGI sense) which recognizes patterns in (multiple) sensory data (streams) over time. The engine predicts and influences its environment to increase the likelihood of the occurrence of the goals driving its motivation. 
-    Design leverages Cassandra on GCP, Python and SQL; with [Molanus](https://www.linkedin.com/in/chris-molanus-37832b10/).
+    Design leverages Cassandra on GCP, Python and SQL; with a guy called [Molanus](https://www.linkedin.com/in/chris-molanus-37832b10/).
 
 
 * ####	Active Bet-Sizing (2018)

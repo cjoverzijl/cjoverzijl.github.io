@@ -4,7 +4,7 @@ layout: default
 
 <section id="about">
 <div class="projects-section">
-{% include projects1.md %}
+{% include about.md %}
 </div>
 </section>
 
@@ -26,6 +26,7 @@ layout: default
 </div>
 </section>
 
-<section id="contact">
-{% include contact.html %}
-</section>
+<section id="contact" class="container content-section text-center">
+<div>
+{% include contact.md %}
+</div></section>
