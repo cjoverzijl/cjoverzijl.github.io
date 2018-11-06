@@ -1,6 +1,6 @@
 <!-- ## ACADEMIC -->
 
-### Academic Projects :: Recent
+### Academic Projects
 ---------------
 
 * #### An Investment Game (2017)
