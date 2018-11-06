@@ -1,6 +1,6 @@
 <!-- ## Applied Projects -->
 
-### Applied Research & Data Science :: Older
+### Applied & Data Science :: Older
 ---------------
 * #### Analytics Platforms (2013-2016)
 	

@@ -1,6 +1,6 @@
 <!-- ## Applied Projects -->
 
-### Applied Research & Data Science :: Recent
+### Applied & Data Science :: Recent
 ---------------
 
 * #### Holmes (2014 – )
