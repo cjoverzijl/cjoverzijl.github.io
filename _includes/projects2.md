@@ -2,11 +2,11 @@
 
 ### Applied & Data Science :: Older
 ---------------
-* #### Analytics Platforms (2013-2016)
-	
-	* **"Analytical Environment"  Product Owner (team of 10):** Architecture and modeling for a core system for regulatory-compliance across firmwide product-offering to retail and private clients; dual-purposed as environment to enable the business to extract value through data science & analytics; SAS-based.
+* #### Analytics & Architecture (2013-2018)
+	* **Portfolio Management Platform Redesign:** Ran a major upgrade and harmonization of the full tooling and workflow setup for cross-asset portfolio management covering teams in 3 countries: data flows and precedence hierarchy, screens, optimization engine, trades, performance and risk analysis and production reporting, plus user training.
+	* **"Analytical Environment"  Product Owner (team of 10):** Delivered architecture for a core regulatory-compliance system across the firmwide product-offering to retail and private clients; design was dual-purposed as analytics environment to enable extraction of value through data-science & analytics in the business; SAS-based.
 	* **"Pandora" Analytics Team-Lead (team of 4):** Developed a full investment performance and risk analytics system, with the goals of speedy, daily reporting and data provision to portfolio management teams. SAS development integrated with Factset, the FIS APT risk-engine, in-house datafeeds on a historicized DataVault design.
-	* **SAS MI Team-Lead (team of 5):** Developed an analytics & reporting (BI/MI) platform for client holdings and asset flows over time. Architecture, ETL, DataVault approach to DWH, custom reporting engine, end-to-end flows, performance testing. SAS development, integrated with custom reporting engine.
+	* **SAS MI Team-Lead (team of 5):** Developed an analytics (BI/MI) platform for client holdings and asset flows over time. Architecture, ETL, DataVault approach to DWH, custom reporting engine, end-to-end flows, performance testing. SAS development, integrated with custom reporting engine.
 	* **Enhanced Reporting Framework Team-Lead (team of 2):** Developed a unified framework for efficient, clean and modern reporting elements and style, designed for modular integration with data-warehousing and quantitative analytics solutions; SAS development.
 
 <br>
