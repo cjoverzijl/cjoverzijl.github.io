@@ -2,7 +2,7 @@
 
 ### "Just a guy from the islands..."
 
-My background is in physics and math: I'm passionate about the role of solid, no-BS research, and I want to understand the network-structure behind the dynamics we observe in the world. In financial markets, the value there is strongly underestimated in managing market, credit and liquidity risk, imho. Beyond that I'm always in for interesting cross-disciplinary research, always looking for new insights and novel takes on the world. 
+My background is in physics and math: I'm passionate about the role of solid, comprehensive research, and I want to understand the network-structure behind the dynamics we observe in the world. In financial markets, the value there is strongly underestimated in managing market, credit and liquidity risk, imho. Beyond that I'm always in for interesting cross-disciplinary research, always looking for new insights and novel takes on the world. 
 
 You've found my research and project portfolio: **nothing** here should in any way be construed to represent the views of my employer, or investment advice in any sense of the term. 
 
